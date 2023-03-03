@@ -5,7 +5,7 @@
 * 🎓 Graduated from [VCU](https://medschool.vcu.edu/education/graduate/phd-programs/neuroscience/neuroscience-research/) with my Masters in Neurobiology in 2021
 * 🎓 Graduated from the [University of Richmond Data Analytics Bootcamp](https://bootcamps.richmond.edu/data/landing-b5a/?s=Google-Unbranded&msg_cv_scta=4&msg_cv_stbn=1&msg_cv_fcta=1&pkw=%2Bdata%20%2Bbootcamp&pcrid=459933555980&pmt=b&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CUNIVERSITY-OF-RICHMOND%7CSEM%7CDATA%7C-%7COFL%7CTIER-1%7CALL%7CNBD-G%7CBMM%7CSecondary%7CBootcamp&utm_term=%2Bdata%20%2Bbootcamp&s=google&k=%2Bdata%20%2Bbootcamp&utm_adgroupid=106453255614&utm_locationphysicalms=9008459&utm_matchtype=b&utm_network=g&utm_device=c&utm_content=459933555980&utm_placement=&gclid=CjwKCAiAioifBhAXEiwApzCztiikKSNjhDs8SsuTOxH3cbGVG7gquDUyar593akq2yTm9_wdunWOjxoCOo0QAvD_BwE&gclsrc=aw.ds) in 2022
 * 🤓 Fell in love with machine learning and I am **actively seeking roles as a machine learning engineer or data scientist**!
-* 💻 Currently working on learning PyTorch for deep learning
+* 💻 Currently working on learning [PyTorch for deep learning](https://github.com/mrdbourke/pytorch-deep-learning)
 * 📫 How to reach me: maronemgm@gmail.com
 
 <!--
